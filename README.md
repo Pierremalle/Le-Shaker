@@ -1,8 +1,11 @@
-# Welcome to your Expo app 👋
+# Welcome to LeShaker repository
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This project is an adaptation of a drinking game created by Fannie Causse Drevron.
+All rights are reserved.
 
 ## Get started
+
+To launch the application with Expo :
 
 1. Install dependencies
 
@@ -16,35 +19,19 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+## Goals
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+This app is designed to implement the first drininkg game, well knowed at our parties, the Shaker.
+This game features 6 to 8 categories of questions/actions to do.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Originally, you need to roll a dice that choose the catgory, and if needed, spin a bottle.
 
-## Get a fresh project
+## Application details
 
-When you're ready, run:
+This app is designed to reproduce the feeling while playing this game.
+Have a fun time with friends.
 
-```bash
-npm run reset-project
-```
+## Development details
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+This appliation is developped on my free time.
+I will try to follow a continuous integration methodology, followed with tests, and finally true situation tests.
