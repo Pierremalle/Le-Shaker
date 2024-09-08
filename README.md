@@ -16,7 +16,7 @@ To launch the application with Expo :
 2. Start the app
 
    ```bash
-    npx expo start
+    npx expo start (--port 9091)
    ```
 
 ## Goals
