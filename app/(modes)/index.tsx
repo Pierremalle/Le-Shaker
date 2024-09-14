@@ -1,17 +1,10 @@
-import { View, Text, StyleSheet } from "react-native";
+import ModeList from "./ModeList";
+import ThemeProvider from "@/components/UiElements/theme/ThemeProvider";
 
 export default function HomeScreen() {
   return (
-    <View style={styles.container}>
-      <Text>Modes</Text>
-    </View>
+    <ThemeProvider>
+      <ModeList />
+    </ThemeProvider>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: "center",
-    alignItems: "center",
-  },
-});
