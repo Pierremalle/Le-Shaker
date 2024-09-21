@@ -1,4 +1,3 @@
-import { StyleSheet } from "react-native";
 import NavButton from "@/components/UiElements/buttons/NavButton";
 import { Avatar, useTheme } from "react-native-paper";
 import PageContainer from "../container/PageContainer";
@@ -18,11 +17,3 @@ export default function HomeView() {
     </PageContainer>
   );
 }
-
-const styles = StyleSheet.create({
-  PageContainer: {
-    flex: 1,
-    justifyContent: "space-between",
-    alignItems: "center",
-  },
-});

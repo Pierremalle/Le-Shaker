@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "space-evenly",
     alignItems: "center",
-    height: "100%", // Add this
-    width: "100%", // Add this
+    height: "100%",
+    width: "100%",
   },
 });
