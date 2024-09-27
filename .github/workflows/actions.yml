@@ -1,0 +1,11 @@
+name: Shaker-workflow
+on: [push]
+
+jobs:
+  running-tests:
+    runs-on: selfhosted
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: First-test
+        run: echo oui
