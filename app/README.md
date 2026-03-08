@@ -58,13 +58,13 @@ api/
 ### Serving Your App
 
 Navigate to the platform crate of your choice:
+
 ```bash
-cd web
+cd mobile
 ```
 
 and serve:
 
 ```bash
-dx serve
+dx serve --package mobile --android
 ```
-
