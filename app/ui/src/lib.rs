@@ -1,10 +1,7 @@
 //! This crate contains all shared UI for the workspace.
 
-mod hero;
-pub use hero::Hero;
+mod examples;
+pub use examples::navbar::Navbar;
 
-mod navbar;
-pub use navbar::Navbar;
-
-mod echo;
-pub use echo::Echo;
+mod components;
+pub use components::card_display::CardDisplay;

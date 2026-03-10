@@ -2,7 +2,6 @@
 resolver = "2"
 members = [
     "ui",
-    "web",
     "mobile",
     "api",
 ]
@@ -13,6 +12,7 @@ dioxus = { version = "0.7.3" }
 # workspace
 ui = { path = "ui" }
 api = { path = "api" }
+mobile = { path = "mobile" }
 
 [profile]
 
