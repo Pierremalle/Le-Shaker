@@ -1,5 +1,5 @@
 mod home;
 pub use home::Home;
 
-mod blog;
-pub use blog::Blog;
+mod player_choice;
+pub use player_choice::PlayerChoice;

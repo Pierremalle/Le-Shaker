@@ -19,7 +19,6 @@ pub fn CardDisplay() -> Element {
             button {
                 onclick: move |_| {
                     let card = deck.write().next();
-                    let card = deck.write().next();
                     response.set(format!("{} — {}", card.category, card.question));
                 },
                 "Next card"
