@@ -2,8 +2,6 @@ use dioxus::prelude::*;
 
 use crate::navigation::NavigationElem;
 
-const BUTTON_NAV_MENU_CSS: Asset = asset!("/assets/styling/navbar.css");
-
 #[derive(Props, Clone, PartialEq)]
 pub struct ButtonNavMenuProps {
     items: Vec<NavigationElem>,
@@ -12,13 +10,14 @@ pub struct ButtonNavMenuProps {
 #[component]
 pub fn ButtonNavMenu(props: ButtonNavMenuProps) -> Element {
     rsx! {
-        document::Link { rel: "stylesheet", href: BUTTON_NAV_MENU_CSS }
-
-        nav {
-            id: "navbar",
-            class: "flex flex-col items-center p-7 rounded-2xl  bg-white",
+        nav { id: "navbar", class: "flex flex-col items-center p-7 rounded-2xl",
             for item in props.items.iter() {
-                a { href: "{item.to}", "{item.name}" }
+                a {
+                    class: "text-lg bg-purple-500 m-8 p-2 w-full rounded-lg",
+                    href: "{item.to}",
+                    "{item.name}"
+
+                }
             }
         }
     }

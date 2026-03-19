@@ -8,4 +8,8 @@ pub enum Route {
     Home {},
     #[route("/player_choice")]
     PlayerChoice { },
+    //#[route("/options")]
+    //Home {},
+    //#[route("/play")]
+    //Home {}
 }
