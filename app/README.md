@@ -57,13 +57,13 @@ api/
 
 ### Serving Your App
 
-Navigate to the platform crate of your choice:
+At the root launch :
 
-```bash
-cd mobile
+```
+npx tailwindcss -i ./tailwind.css -o ./mobile/assets/tailwind.css --watch
 ```
 
-and serve:
+then in another terminal :
 
 ```bash
 dx serve --package mobile --android

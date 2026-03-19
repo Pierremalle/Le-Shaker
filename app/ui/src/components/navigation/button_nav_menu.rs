@@ -14,7 +14,9 @@ pub fn ButtonNavMenu(props: ButtonNavMenuProps) -> Element {
     rsx! {
         document::Link { rel: "stylesheet", href: BUTTON_NAV_MENU_CSS }
 
-        nav { id: "navbar",
+        nav {
+            id: "navbar",
+            class: "flex flex-col items-center p-7 rounded-2xl  bg-white",
             for item in props.items.iter() {
                 a { href: "{item.to}", "{item.name}" }
             }
