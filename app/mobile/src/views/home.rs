@@ -1,10 +1,8 @@
-use crate::config::Route;
-use dioxus::{
-    html::{div, span},
-    prelude::*,
-};
-use ui::navigation::{ButtonNavMenu, NavigationElem};
+use crate::components::navigation::{ButtonNavMenu, NavigationElem};
+use dioxus::prelude::*;
 
+/// Home page
+/// Used to navigate across the app
 #[component]
 pub fn Home() -> Element {
     rsx! {
@@ -24,18 +22,21 @@ pub fn Home() -> Element {
                     to: "/player_choice".into(),
                     name: "Choisir les joueurs".into(),
                 },
-                NavigationElem {
-                    to: "/options".into(),
-                    name: "Paramètres".into(),
-                },
+                //NavigationElem {
+                //    to: "/options".into(),
+                //    name: "Paramètres".into(),
+                //},
             ],
         }
 
         div { class: "flex flex-col items-center p-7 rounded-2xl",
-            a {
-                class: "text-lg bg-purple-500 m-8 p-2 w-full rounded-lg text-center text-xl width-full font-bold font-stretch-extra-expanded",
-                href: "/play",
-                "JOUER"
+            ButtonNavMenu {
+                items: vec![
+                    NavigationElem {
+                        to: "/play".into(),
+                        name: "Jouer".into(),
+                    },
+                ],
             }
         }
     }

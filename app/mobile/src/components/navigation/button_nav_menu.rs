@@ -1,12 +1,14 @@
 use dioxus::prelude::*;
 
-use crate::navigation::NavigationElem;
+use crate::components::navigation::NavigationElem;
 
+/// Props of a navigation menu
 #[derive(Props, Clone, PartialEq)]
 pub struct ButtonNavMenuProps {
     items: Vec<NavigationElem>,
 }
 
+/// Create a simple button toward the destination
 #[component]
 pub fn ButtonNavMenu(props: ButtonNavMenuProps) -> Element {
     rsx! {

@@ -1,12 +1,16 @@
+use crate::components::navigation::ArrowButton;
 use crate::config::state::PLAYERS;
 use dioxus::prelude::*;
-use ui::navigation::ArrowButton;
 
+/// Screen used to choose the players
+/// Uses a copy of the player list before applying it while saving
 #[component]
 pub fn PlayerChoice() -> Element {
     let nav = use_navigator();
 
-    let mut players = use_signal(|| Vec::<String>::new());
+    // local player list
+    let mut players = use_signal(|| PLAYERS.read().clone());
+
     let mut input = use_signal(|| String::new());
     let mut editing_index = use_signal(|| None::<usize>);
     let mut show_toast = use_signal(|| false);
@@ -18,8 +22,9 @@ pub fn PlayerChoice() -> Element {
 
             section { class: "w-full max-w-md mx-auto flex flex-col items-center gap-6 mt-6",
 
-                h1 { class: "text-3xl font-bold text-purple-300 ", "Joueurs" }
+                h1 { class: "text-3xl font-bold text-purple-300", "Joueurs" }
 
+                // Player input
                 div { class: "flex w-full gap-2",
 
                     input {
@@ -32,8 +37,10 @@ pub fn PlayerChoice() -> Element {
                     button {
                         class: "px-4 py-2 rounded-full bg-purple-600 hover:bg-purple-500 active:scale-95 transition-all shadow-[0_0_10px_rgba(168,85,247,0.8)]",
                         onclick: move |_| {
-                            if !input().is_empty() {
-                                players.write().push(input());
+                            let name = input().trim().to_string();
+
+                            if !name.is_empty() {
+                                players.write().push(name);
                                 input.set(String::new());
                             }
                         },
@@ -41,6 +48,7 @@ pub fn PlayerChoice() -> Element {
                     }
                 }
 
+                // Player list
                 div { class: "w-full flex flex-col gap-3",
 
                     for (index , name) in players().iter().enumerate() {
@@ -81,10 +89,15 @@ pub fn PlayerChoice() -> Element {
                     }
                 }
 
+                // SAVE
                 button {
-                    class: "mt-4 w-full py-3 rounded-full bg-gradient-to-r from-purple-600 to-pink-500 hover:scale-105 active:scale-95 transition-all font-bold ",
+                    class: "mt-4 w-full py-3 rounded-full bg-gradient-to-r from-purple-600 to-pink-500 hover:scale-105 active:scale-95 transition-all font-bold",
+
                     onclick: move |_| {
-                        *PLAYERS.write() = players();
+                        let list = players();
+
+                        *PLAYERS.write() = list;
+
                         show_toast.set(true);
 
                         spawn(async move {
@@ -93,11 +106,13 @@ pub fn PlayerChoice() -> Element {
                             show_toast.set(false);
                         });
                     },
+
                     "Sauvegarder"
                 }
+
+                // TOAST
                 if show_toast() {
                     div { class: "fixed bottom-6 left-1/2 -translate-x-1/2 px-6 py-3 rounded-full bg-purple-600 text-white animate-[fadeIn_0.3s_ease]",
-
                         "Joueurs enregistrés !"
                     }
                 }

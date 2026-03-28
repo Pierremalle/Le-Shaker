@@ -1,9 +1,0 @@
-//! This crate contains all shared fullstack server functions.
-use dioxus::prelude::*;
-
-pub mod questions;
-
-/// Echo the user input on the server.
-pub async fn echo(input: String) -> Result<String, ServerFnError> {
-    Ok(input)
-}

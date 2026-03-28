@@ -1,6 +1,7 @@
-use crate::views::{Home, PlayerChoice};
+use crate::views::{Home, PlayScreen, PlayerChoice};
 use dioxus::prelude::*;
 
+/// The different routes of the application and related views
 #[derive(Debug, Clone, Routable, PartialEq)]
 #[rustfmt::skip]
 pub enum Route {
@@ -10,6 +11,6 @@ pub enum Route {
     PlayerChoice { },
     //#[route("/options")]
     //Home {},
-    //#[route("/play")]
-    //Home {}
+    #[route("/play")]
+    PlayScreen {}
 }
