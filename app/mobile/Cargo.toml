@@ -5,6 +5,7 @@ edition = "2021"
 
 [dependencies]
 dioxus = { workspace = true, features = ["router"] }
+tokio = "1.50.0"
 ui = { workspace = true }
 
 [features]

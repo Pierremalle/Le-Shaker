@@ -12,11 +12,10 @@ pub fn ButtonNavMenu(props: ButtonNavMenuProps) -> Element {
     rsx! {
         nav { id: "navbar", class: "flex flex-col items-center p-7 rounded-2xl",
             for item in props.items.iter() {
-                a {
+                Link {
                     class: "text-lg bg-purple-500 m-8 p-2 w-full rounded-lg",
-                    href: "{item.to}",
+                    to: item.to.clone(),
                     "{item.name}"
-
                 }
             }
         }
