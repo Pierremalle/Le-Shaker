@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["home","play_screen","player_choice"]};

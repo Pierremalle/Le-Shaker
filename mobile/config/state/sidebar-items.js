@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["next_player"],"static":["LAST_PLAYER","PLAYERS","PLAYER_INDEX"]};

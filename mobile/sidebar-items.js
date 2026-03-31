@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["TAILWIND_CSS"],"fn":["App","main"],"mod":["components","config","views"]};

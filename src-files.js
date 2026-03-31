@@ -1,0 +1,2 @@
+createSrcSidebar('[["mobile",["",[["components",[["gameplay",[],["card_manager.rs","mod.rs"]],["navigation",[],["button_nav_menu.rs","buttons.rs","mod.rs"]]],["mod.rs"]],["config",[["questions",[],["mod.rs"]]],["mod.rs","routes.rs","state.rs"]],["views",[],["home.rs","mod.rs","play_screen.rs","player_choice.rs"]]],["main.rs"]]]]');
+//{"start":19,"fragment_lengths":[310]}
