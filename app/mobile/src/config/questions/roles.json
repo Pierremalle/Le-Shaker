@@ -1,0 +1,195 @@
+{
+  "Carte personnage": [
+    {
+      "name": "Le fringuant",
+      "rule": "Doit porter tous les vêtements enlevés durant la partie"
+    },
+    {
+      "name": "Le pouilleux",
+      "rule": "Si iel parle et qu'on répond, l'autre récupère la carte et boit"
+    },
+    { "name": "La pisseuse", "rule": "Boit si iel se lève" },
+    {
+      "name": "Le Roi",
+      "rule": "Assis à côté de la Reine, toutes les gorgées sont +1"
+    },
+    { "name": "Le mouton", "rule": "Boit si son voisin boit" },
+    {
+      "name": "Le froussard",
+      "rule": "Boit +1 s'iel refuse une carte Action/Chiche"
+    },
+    {
+      "name": "Le kamikaze",
+      "rule": "Met en jeu les gorgées d'un joueur une fois par tour"
+    },
+    {
+      "name": "Le malchanceux",
+      "rule": "Si iel fait 4 ou moins au dé, iel boit ce nombre"
+    },
+    {
+      "name": "Le maître du jeu",
+      "rule": "Distribue 1 gorgée si une règle n'est pas respectée"
+    },
+    { "name": "L'âne", "rule": "Boit s'il faut lui expliquer quelque chose" },
+    {
+      "name": "Le naïf",
+      "rule": "Boit 2 s'iel demande l'explication d'une blague"
+    },
+    {
+      "name": "Le révolutionnaire",
+      "rule": "Résultat du dé augmente de 1 pour tous"
+    },
+    {
+      "name": "Le fanfaron",
+      "rule": "Boit 2 s'iel répond oui à un J'ai Jamais"
+    },
+    {
+      "name": "Le soûlard",
+      "rule": "Prend une gorgée de plus si le nombre est impair"
+    },
+    {
+      "name": "La voyante",
+      "rule": "Distribue 1 gorgée si iel devine la réponse avant"
+    },
+    {
+      "name": "Le collectionneur",
+      "rule": "Distribue autant de gorgées que de cartes possédées"
+    },
+    {
+      "name": "La cloche",
+      "rule": "Fait faire des pompes à celui qui pique du nez"
+    },
+    {
+      "name": "La grammanazie",
+      "rule": "Donne 2 gorgées par faute de français entendue"
+    },
+    {
+      "name": "Le chat",
+      "rule": "Peut réduire quelqu'un au silence contre 3 gorgées"
+    },
+    {
+      "name": "Le clown",
+      "rule": "Les gens rient = ils boivent, sinon iel boit"
+    },
+    {
+      "name": "L'écho",
+      "rule": "Doit commencer ses phrases par le dernier mot entendu"
+    },
+    {
+      "name": "L'anarchiste",
+      "rule": "Le résultat du dé diminue de 2 pour tous"
+    },
+    { "name": "L'ermite", "rule": "Boit 2 s'iel répond non à un J'ai Jamais" },
+    {
+      "name": "Le collabo",
+      "rule": "Peut donner une de ses gorgées à un autre joueur"
+    },
+    {
+      "name": "Le Jules César",
+      "rule": "Doit parler de soi à la 3ème personne du singulier"
+    },
+    { "name": "Le prude", "rule": "Boit x2 pour toute question de cul" },
+    {
+      "name": "Le sergent",
+      "rule": "On doit finir ses phrases par 'sergent' en lui parlant"
+    },
+    { "name": "Le nudiste", "rule": "Boit 1 si quelqu'un change de vêtement" },
+    {
+      "name": "L'aventurier",
+      "rule": "Ne peut pas skipper une carte Action ou Chiche"
+    },
+    { "name": "L'enfant", "rule": "Boit pour chaque gros mot dit" },
+    {
+      "name": "L'alcoolique",
+      "rule": "Boit ce que ses 4 voisins directs boivent"
+    },
+    {
+      "name": "Le cupidon",
+      "rule": "Désigne 2 joueurs qui partagent leurs gorgées"
+    },
+    {
+      "name": "Le gardien",
+      "rule": "Peut annuler ses propres gorgées une fois par tour"
+    },
+    {
+      "name": "Le menteur",
+      "rule": "Droit de mentir en Vérité (boit 2 si découvert)"
+    },
+    {
+      "name": "Le glouton",
+      "rule": "Doit boire 1 gorgée avant de manger quoi que ce soit"
+    },
+    {
+      "name": "Le flambeur",
+      "rule": "Peut mettre ses gorgées reçues en jeu au dé"
+    },
+    {
+      "name": "Le surveillant",
+      "rule": "Donne 1 gorgée à celui qui touche son téléphone"
+    },
+    {
+      "name": "Le dictateur",
+      "rule": "Distribue moitié moins de gorgées qu'il y a de joueurs"
+    },
+    {
+      "name": "L'actionnaire",
+      "rule": "Choisit un chiffre : iel donne 1 si le chiffre tombe"
+    },
+    { "name": "Le sourd", "rule": "Boit 1 s'iel demande de répéter" },
+    { "name": "Le tabou", "rule": "Choisit un mot : boit si quelqu'un le dit" },
+    { "name": "Le responsable", "rule": "Prépare le verre du 'sous-tutelle'" },
+    { "name": "La Reine", "rule": "Boit +1 si elle n'est pas à côté du Roi" },
+    {
+      "name": "Le sous-tutelle",
+      "rule": "Interdiction de préparer son propre verre"
+    },
+    {
+      "name": "Le vertueux",
+      "rule": "Interdiction de skipper une carte Vérité"
+    },
+    {
+      "name": "Le voyageur temporel",
+      "rule": "Peut boire 3 pour relancer le dé"
+    },
+    { "name": "Le voleur", "rule": "Peut échanger sa carte contre 3 gorgées" },
+    {
+      "name": "L'apprenti sorcier",
+      "rule": "Doit changer la compo du verre s'iel le finit"
+    },
+    {
+      "name": "L'ange gardien",
+      "rule": "Peut prendre les gorgées de quelqu'un d'autre"
+    },
+    { "name": "Personne", "rule": "Boit 1 si quelqu'un prononce son prénom" },
+    { "name": "Le bègue", "rule": "Boit s'iel bégaye" },
+    { "name": "Le bon samaritain", "rule": "Distribue des verres d'eau" },
+    {
+      "name": "Le bouc-émissaire",
+      "rule": "Boit 1 dès que des gorgées sont distribuées"
+    },
+    {
+      "name": "Le chanceux",
+      "rule": "Si iel fait 4 ou plus, iel distribue les gorgées"
+    }
+  ],
+  "Stupeur et tremblements": [
+    { "rule": "Tire 2 cartes VÉRITÉ : une faite, une donnée" },
+    { "rule": "Choisi un nombre 1-8, bois pendant 3 tours s'il tombe" },
+    { "rule": "Divise par 2 les gorgées que tu dois prendre" },
+    { "rule": "Double l'action" },
+    { "rule": "Je ne boirai rien (annule les gorgées)" },
+    { "rule": "Pendant 1 tour : Ni Oui Ni Non (perdant boit 2)" },
+    { "rule": "Pendant 1 tour : tout le monde lance les 2 dés" },
+    { "rule": "Pendant 2 tours : exempté de boire" },
+    { "rule": "Si iel saute son tour, boit 2 gorgées" },
+    { "rule": "Lance dé : >4 bois, <4 distribue, =4 rien" },
+    { "rule": "Tu es partenaire de beuverie (2 tours)" },
+    { "rule": "Si tu ne bois pas d'alcool, donne tes gorgées jusqu'à la fin" },
+    { "rule": "Si tu ne portes pas de chaussettes, bois 4" },
+    { "rule": "Tous les gens ayant un 'a' dans le prénom boivent 3" },
+    { "rule": "Tous les gens ayant un 'e' dans le prénom boivent 3" },
+    { "rule": "Tous les joueurs qui ont le permis boivent 3" },
+    { "rule": "Tous ceux qui portent une veste boivent 3" },
+    { "rule": "Toutes les personnes en short boivent chez le voisin" }
+  ]
+}

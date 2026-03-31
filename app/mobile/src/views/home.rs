@@ -14,7 +14,7 @@ pub fn Home() -> Element {
             h1 { class: "relative top-0 w-fit h-auto py-4 justify-center flex bg-gradient-to-r items-center from-purple-500 to-pink-500 bg-clip-text text-6xl font-extrabold text-transparent text-center select-auto",
                 "Le Shaker"
             }
-            p { "🔥 An app made in Fannie 🔥" }
+            p { "🔥 An app made by Fannie 🔥" }
         }
         ButtonNavMenu {
             items: vec![
