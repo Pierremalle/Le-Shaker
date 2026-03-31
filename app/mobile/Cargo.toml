@@ -1,0 +1,17 @@
+[package]
+name = "mobile"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dioxus = { workspace = true, features = ["router"] }
+rand = "0.10.0"
+serde = "1.0.228"
+serde_json = "1.0.149"
+tokio = {version = "1.50.0", features = ["time"]}
+dioxus-free-icons = { version = "0.10.0", features = ["font-awesome-brands", "font-awesome-regular", "font-awesome-solid"] }
+
+[features]
+default = []
+mobile = ["dioxus/mobile"]
+server = ["dioxus/server"]

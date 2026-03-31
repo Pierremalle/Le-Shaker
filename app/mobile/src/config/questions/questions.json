@@ -1,0 +1,1425 @@
+{
+  "Action": [
+    {
+      "question": "Embrasse la personne à ta droite",
+      "alternative": "Relance le dé"
+    },
+    {
+      "question": "Au prochain tour, lance les 2 dés",
+      "alternative": "Bois 2 shots"
+    },
+    { "question": "Bois 1 gorgée", "alternative": "Prends une carte VÉRITÉ" },
+    {
+      "question": "Vide ton verre en moins de 15s",
+      "alternative": "Donne la dernière catégorie de porno que tu aies regardé"
+    },
+    {
+      "question": "Bois 2 gorgées de ton verre",
+      "alternative": "Laisse ton voisin de gauche te préparer le prochain"
+    },
+    {
+      "question": "Bois 4 gorgées de ton verre",
+      "alternative": "Donne le mois de naissance de tous les joueurs"
+    },
+    {
+      "question": "Bois 1 shot",
+      "alternative": "Laisse la personne de ton choix boire 1 shot"
+    },
+    {
+      "question": "Bois le nombre de carte jaunes que tu possèdes",
+      "alternative": "Fais préparer ton verre par les autres"
+    },
+    {
+      "question": "Désigne la personne que tu aimes le plus ici",
+      "alternative": "Celle que tu aimes le moins"
+    },
+    {
+      "question": "Dis le plus gros défaut de la personne en face",
+      "alternative": "Tout le monde te dis un petit défaut"
+    },
+    {
+      "question": "Donne 1 gorgée à la 2ème personne à ta droite",
+      "alternative": "À la 3ème personne à ta gauche"
+    },
+    {
+      "question": "Donne 1 gorgée à la 3ème personne à ta droite",
+      "alternative": "À la 2ème personne à ta gauche"
+    },
+    {
+      "question": "Donne 3 raisons qui font que tu apprécies la personne à ta droite",
+      "alternative": "À ta gauche"
+    },
+    {
+      "question": "Bois 1 gorgée",
+      "alternative": "Laisse la personne de ton choix boire 1 gorgée"
+    },
+    {
+      "question": "Donne le nom de ton site de cul préféré",
+      "alternative": "Le thème que tu préfères"
+    },
+    {
+      "question": "Donne ta position préférée",
+      "alternative": "Celle que tu aimes le moins"
+    },
+    {
+      "question": "Échange de place avec la 3ème personne à ta droite",
+      "alternative": "La 4ème personne à ta gauche"
+    },
+    {
+      "question": "Échange de place avec la 4ème personne à ta droite",
+      "alternative": "La 3ème personne à la gauche"
+    },
+    {
+      "question": "Embrasse la 4ème personne à ta gauche sur la joue",
+      "alternative": "Sur le front"
+    },
+    {
+      "question": "Embrasse la 2ème personne à ta droite",
+      "alternative": "La 4ème personne à ta gauche"
+    },
+    {
+      "question": "Bois 1 gorgée du verre de ton voisin de droite",
+      "alternative": "De ton voisin de gauche"
+    },
+    {
+      "question": "Fais un câlin à ton voisin de droite",
+      "alternative": "À la 3ème personne à ta gauche"
+    },
+    {
+      "question": "Embrasse la personne à ta gauche",
+      "alternative": "Relance le dé"
+    },
+    {
+      "question": "Enlève ton bas pendant un tour",
+      "alternative": "Enlève ton haut pendant 1 tour"
+    },
+    {
+      "question": "Fais un bras de fer avec ton voisin de droite",
+      "alternative": "Avec ton voisin de gauche"
+    },
+    {
+      "question": "Fais un câlin à ton voisin de gauche",
+      "alternative": "À la 2ème personne à ta droite"
+    },
+    {
+      "question": "Fais un château de carte de 2 étages seul",
+      "alternative": "Avec tes voisins"
+    },
+    {
+      "question": "Fais un cul-sec de ton verre",
+      "alternative": "Bois dans ceux de tes voisins"
+    },
+    {
+      "question": "Fais un shifumi avec ton voisin de droite ou de gauche",
+      "alternative": "Le perdant finit son verre"
+    },
+    {
+      "question": "Fais une blague",
+      "alternative": "Quelqu'un te fait une blague"
+    },
+    {
+      "question": "Fait ta meilleure imitation humaine",
+      "alternative": "Animale"
+    },
+    { "question": "Finis ton verre", "alternative": "Enlève un vêtement" },
+    {
+      "question": "Fais une déclaration à ton voisin de gauche",
+      "alternative": "Bois un verre préparé par le groupe"
+    },
+    { "question": "Finis ton verre", "alternative": "Le verre de ton voisin" },
+    {
+      "question": "La 3ème personne à ta gauche te prépare un verre",
+      "alternative": "Tu lui prépares un verre"
+    },
+    {
+      "question": "Les joueurs choisissent une carte VÉRITÉ dans la pile",
+      "alternative": "Tu bois 4 gorgées"
+    },
+    {
+      "question": "Liste 6 marques d'alcools forts en 30s",
+      "alternative": "Liste 5 marques de bières"
+    },
+    {
+      "question": "Mange le premier truc comestible qui passe",
+      "alternative": "Bois le 1er verre à ta portée"
+    },
+    {
+      "question": "Mets-toi sur un pied, bras sous la jambe et touche ton nez",
+      "alternative": "Fais 10 pompes"
+    },
+    {
+      "question": "Parle en rime",
+      "alternative": "Ne parle plus pendant 1 tour"
+    },
+    {
+      "question": "Prend une carte CHICHE et fais-la",
+      "alternative": "Bois 1 shot"
+    },
+    {
+      "question": "Prend une carte J’AI JAMAIS",
+      "alternative": "Prend une carte VÉRITÉ"
+    },
+    {
+      "question": "Reste sur 1 pied pendant 30s",
+      "alternative": "Gaine sur le côté pendant 30s"
+    },
+    {
+      "question": "Tout le monde boit 1 gorgée",
+      "alternative": "Tu choisis qui boit 3 gorgées"
+    },
+    {
+      "question": "Tout le monde boit 2 gorgées",
+      "alternative": "Tu choisis qui boit 4 gorgées"
+    },
+    {
+      "question": "Bois 1 shot de l'alcool de ton verre",
+      "alternative": "Bois 3 gorgées du verre de ton voisin de droite"
+    },
+    {
+      "question": "Bois 4 gorgées de ton verre",
+      "alternative": "2 gorgées dans celui de la personne en face"
+    },
+    {
+      "question": "Distribue autant de gorgées qu’il y a de joueurs",
+      "alternative": "Donne les gorgées à une seule personne"
+    },
+    {
+      "question": "Donne un verre d'eau",
+      "alternative": "Bois un verre d'eau"
+    },
+    {
+      "question": "Fais un cul-sec de ton verre",
+      "alternative": "Bois dans ceux des 2 personnes en face"
+    },
+    {
+      "question": "Devine la composition du verre d'un voisin",
+      "alternative": "Bois une gorgée"
+    },
+    {
+      "question": "Embrasse la 2ème personne à ta droite sur la joue",
+      "alternative": "Sur le front"
+    },
+    { "question": "Bois 1 shot", "alternative": "Prends une carte VÉRITÉ" }
+  ],
+  "Vérité": [
+    {
+      "question": "Donne un de tes fantasmes",
+      "alternative": ""
+    },
+    {
+      "question": "Avec combien de personnes ici t’as déjà fait des bails ?",
+      "alternative": ""
+    },
+    {
+      "question": "As-tu déjà regretté d'être sortis avec quelqu'un ?",
+      "alternative": ""
+    },
+    {
+      "question": "À quand remonte ton dernier rapport sexuel ?",
+      "alternative": ""
+    },
+    {
+      "question": "Avec qui ici pourrais-tu faire un plan à 4 ?",
+      "alternative": ""
+    },
+    {
+      "question": "C’est quoi ton plat préféré ?",
+      "alternative": ""
+    },
+    {
+      "question": "Combien de gens de ton groupe de potes t'as déjà pêcho ?",
+      "alternative": ""
+    },
+    {
+      "question": "C'est quoi le plus beau compliment qu'on t'ai fait ?",
+      "alternative": ""
+    },
+    {
+      "question": "C'est quoi ta dream team pour partir en vacances ?",
+      "alternative": ""
+    },
+    {
+      "question": "C'est quoi ta plus longue période sans douche ?",
+      "alternative": ""
+    },
+    {
+      "question": "C'est quoi ta plus longue période sans te laver les dents ?",
+      "alternative": ""
+    },
+    {
+      "question": "C'est quoi ton max de branlette en une journée ?",
+      "alternative": ""
+    },
+    {
+      "question": "C'est quoi ton meilleur souvenir de cette année ?",
+      "alternative": ""
+    },
+    {
+      "question": "Aimerais-tu faire un jeu de rôle sexuel ?",
+      "alternative": ""
+    },
+    {
+      "question": "C'est quoi ton style de mec/meuf ?",
+      "alternative": ""
+    },
+    {
+      "question": "Combien as-tu eu de relations amoureuses ?",
+      "alternative": ""
+    },
+    {
+      "question": "Combien de fois tu t'es branlé cette semaine ?",
+      "alternative": ""
+    },
+    {
+      "question": "Combien de personnes ici as-tu déjà envisagé de pécho ?",
+      "alternative": ""
+    },
+    {
+      "question": "Comment considères-tu la personne en face de toi ?",
+      "alternative": ""
+    },
+    {
+      "question": "Donne la qualité d'un.e de tes voisin.es que tu aimerais avoir",
+      "alternative": ""
+    },
+    {
+      "question": "T'es-tu déjà endormi pendant un rapport sexuel ?",
+      "alternative": ""
+    },
+    {
+      "question": "Ici, qui est-ce que tu : maries, ken, tues ?",
+      "alternative": ""
+    },
+    {
+      "question": "Est-ce que t'as déjà envoyé/reçu des nudes ?",
+      "alternative": ""
+    },
+    {
+      "question": "Est-ce que tu as déjà fait un rêve érotique avec une personne de la pièce ?",
+      "alternative": ""
+    },
+    {
+      "question": "Est-ce que tu fais du bruit au lit ?",
+      "alternative": ""
+    },
+    {
+      "question": "Pour toi, qui est la plus jolie ici ?",
+      "alternative": ""
+    },
+    {
+      "question": "Quand as-tu pleuré pour la dernière fois ?",
+      "alternative": ""
+    },
+    {
+      "question": "Quand est-ce que tu t'es branlé pour la dernière fois ?",
+      "alternative": ""
+    },
+    {
+      "question": "Que penses-tu d'utiliser un sex-toy avec ton.ta partenaire ?",
+      "alternative": ""
+    },
+    {
+      "question": "Quel défaut détestes-tu le plus chez une personne du sexe opposé ?",
+      "alternative": ""
+    },
+    {
+      "question": "Quel est le défaut de la personne à ta droite ?",
+      "alternative": ""
+    },
+    {
+      "question": "Si ton voisin de gauche et de droite allaient mourir, lequel sauverais-tu en premier ?",
+      "alternative": ""
+    },
+    {
+      "question": "Quel est l'endroit le plus insolite où tu aies fait l'amour ?",
+      "alternative": ""
+    },
+    {
+      "question": "Quel est le nom de ton.ta crush le.la plus récent.e ?",
+      "alternative": ""
+    },
+    {
+      "question": "Quel est ton date de rêve ?",
+      "alternative": ""
+    },
+    {
+      "question": "Quel est ton record de rapports sexuels dans une journée ?",
+      "alternative": ""
+    },
+    {
+      "question": "Quelle est la partie physique que tu préfères chez une personne du sexe opposé ?",
+      "alternative": ""
+    },
+    {
+      "question": "Quelle est ta qualité préférée ?",
+      "alternative": ""
+    },
+    {
+      "question": "Qu'est-ce qui te donne le sourire au quotidien ?",
+      "alternative": ""
+    },
+    {
+      "question": "Qui ici est la personne que tu aimes le moins ?",
+      "alternative": ""
+    },
+    {
+      "question": "Qui est la dernière personne avec qui tu aies fait des bails ?",
+      "alternative": ""
+    },
+    {
+      "question": "Qui ici trouves-tu le plus attirant ?",
+      "alternative": ""
+    },
+    {
+      "question": "Qui ici tu gagnes à la bagarre ?",
+      "alternative": ""
+    },
+    {
+      "question": "Qui ici, selon toi, a le plus mauvais style vestimentaire ?",
+      "alternative": ""
+    },
+    {
+      "question": "Selon toi, qui ici a le plus haut body-count ?",
+      "alternative": ""
+    },
+    {
+      "question": "Selon toi, qui ici est le meilleur coup au lit ?",
+      "alternative": ""
+    },
+    {
+      "question": "Si ton ex t’envoyait un message pour se remettre avec toi, tu accepterais ?",
+      "alternative": ""
+    },
+    {
+      "question": "Si tu devais coucher avec quelqu'un ici, ce serait qui ?",
+      "alternative": ""
+    },
+    {
+      "question": "Si tu devais passer la dernière journée de ta vie avec une seule personne ici, ce serait qui ?",
+      "alternative": ""
+    },
+    {
+      "question": "Si tu pouvais prendre une balle à la place de la personne en face, le ferais-tu ?",
+      "alternative": ""
+    },
+    {
+      "question": "Sur combien de personnes ici as-tu déjà eu un crush ?",
+      "alternative": ""
+    },
+    {
+      "question": "Tu serais prêt.e à laisser la personne à ta droite te préparer à manger ?",
+      "alternative": ""
+    },
+    {
+      "question": "Quelle est la chose la plus étonnante qui t'excite au lit ?",
+      "alternative": ""
+    },
+    {
+      "question": "C'est quoi ton bodycount ?",
+      "alternative": ""
+    }
+  ],
+  "Tu préfères": [
+    {
+      "question": "Les cheveux longs chez les hommes",
+      "alternative": "Les cheveux courts chez les femmes"
+    },
+    {
+      "question": "Avoir une vision nocturne",
+      "alternative": "Pouvoir tomber de haut sans se faire mal"
+    },
+    {
+      "question": "Coucher avec ton voisin de gauche",
+      "alternative": "Ton voisin de droite"
+    },
+    {
+      "question": "Devoir changer de position sexuelle à chaque fois",
+      "alternative": "N'en faire qu'une pour le reste de ta vie"
+    },
+    { "question": "Dominer", "alternative": "Être dominé" },
+    {
+      "question": "Draguer avec un accordéon",
+      "alternative": "En faisant des claquettes"
+    },
+    {
+      "question": "Coucher avec ton.ta voisin.e de gauche",
+      "alternative": "Ton.ta voisin.e de droite"
+    },
+    {
+      "question": "Être beau/belle et con.ne",
+      "alternative": "Moche et intelligent.e"
+    },
+    {
+      "question": "Être coupé.e de ta famille",
+      "alternative": "De tes ami.es"
+    },
+    {
+      "question": "Être en tong en soirée chic",
+      "alternative": "En smoking au camping"
+    },
+    {
+      "question": "Être le/l’ héro.inne d'un film d'action",
+      "alternative": "Le.la méchante.e dans un film d'horreur"
+    },
+    { "question": "Être sourd.e", "alternative": "Être muet.te" },
+    {
+      "question": "Faire de la spéléologie dans une petite grotte",
+      "alternative": "Exploration sous-marine dans une fosse"
+    },
+    {
+      "question": "Baiser la 2ème personne à ta droite",
+      "alternative": "Te faire baiser par la 2ème personne à ta gauche"
+    },
+    {
+      "question": "Faire un bruit d'animal à chaque fois que tu jouis",
+      "alternative": "Tomber dans les pommes"
+    },
+    {
+      "question": "Faire un strip-tease à la personne en face",
+      "alternative": "À ton voisin de gauche"
+    },
+    {
+      "question": "Faire une séance photo coquine avec la 4ème personne à ta droite",
+      "alternative": "La 4ème personne à ta gauche"
+    },
+    { "question": "Habiter en ville", "alternative": "En campagne" },
+    {
+      "question": "La personne à ta gauche",
+      "alternative": "La personne à ta droite"
+    },
+    { "question": "Les fesses", "alternative": "La poitrine / pecs" },
+    { "question": "Mourir brûlé vif.ve", "alternative": "Noyé.e" },
+    {
+      "question": "Lire dans les pensées des gens",
+      "alternative": "Être invisible pendant 24h"
+    },
+    {
+      "question": "Lire un porno à quelqu'un",
+      "alternative": "Qu'on te lise un porno"
+    },
+    { "question": "Missionnaire", "alternative": "Sous la douche" },
+    { "question": "Nager nu .e", "alternative": "Courir nu.e" },
+    {
+      "question": "Ne plus avoir besoin de faire de courses",
+      "alternative": "Ne plus avoir besoin de cuisiner"
+    },
+    {
+      "question": "Ne plus avoir de téléphone pendant 2 semaines",
+      "alternative": "Ne plus avoir de livre pendant 2 semaines"
+    },
+    {
+      "question": "Ne plus pouvoir faire de blagues",
+      "alternative": "Ne plus pouvoir rire"
+    },
+    {
+      "question": "Partir en vacance avec la moitié des gens à droite",
+      "alternative": "La moitié à gauche"
+    },
+    { "question": "Pastis", "alternative": "Bière" },
+    {
+      "question": "Perdre la vue peu à peu",
+      "alternative": "Du jour au lendemain"
+    },
+    { "question": "Perdre un bras", "alternative": "Perdre une jambe" },
+    {
+      "question": "Pécho ton.ta meilleur.e pote",
+      "alternative": "Sa meuf/copain le.la plus récent.e"
+    },
+    { "question": "Position amazone", "alternative": "Levrette" },
+    { "question": "Pour un apéro, chips", "alternative": "Cacahuète" },
+    {
+      "question": "Qu'on te bande les yeux pendant un rapport",
+      "alternative": "Qu'on t'attache les mains"
+    },
+    {
+      "question": "Regarder un porno en public",
+      "alternative": "Lire un porno en public"
+    },
+    {
+      "question": "Rencontrer des extraterrestres",
+      "alternative": "Voir les fantômes"
+    },
+    { "question": "Revoir tes ami.es d'école", "alternative": "De collège" },
+    {
+      "question": "Savoir parler toutes les langues",
+      "alternative": "Pouvoir parler aux animaux"
+    },
+    {
+      "question": "Te faire tunnel en étant sobre",
+      "alternative": "En étant bourré.e"
+    },
+    {
+      "question": "Signer un contrat pour le boulot de tes rêves",
+      "alternative": "Finir ta vie avec la personne de tes rêves"
+    },
+    {
+      "question": "Sortie avec ton.ta voisin.e de droite en secret",
+      "alternative": "Que tout le monde croit que vous sortez ensemble"
+    },
+    { "question": "Sucer", "alternative": "Branler" },
+    {
+      "question": "Te faire surprendre en plein acte par ta belle-famille",
+      "alternative": "Par ta famille"
+    },
+    {
+      "question": "Te remettre avec ton ex",
+      "alternative": "Sortir avec la 3ème personne à ta droite"
+    },
+    { "question": "Tes années d'études sup'", "alternative": "Ton lycée" },
+    {
+      "question": "Tourner dans un porno avec l'acteur de ton choix",
+      "alternative": "Le thème de ton choix"
+    },
+    {
+      "question": "Tourner dans un porno gay",
+      "alternative": "Tourner dans un porno hétéro mais pendant 1min"
+    },
+    {
+      "question": "Un cosplay d'infirmière/pompier",
+      "alternative": "De policier.e"
+    },
+    {
+      "question": "Voir les gens nu sans contrôle",
+      "alternative": "Entendre leurs pensées en continu"
+    },
+    {
+      "question": "Voir ta mère sur Onlyfan",
+      "alternative": "Voir ta fille sur Onlyfan"
+    },
+    {
+      "question": "Devoir changer de pays tous les ans",
+      "alternative": "Changer de sexe tous les ans"
+    }
+  ],
+  "J'ai jamais": [
+    { "question": "Eu de black-out en soirée", "alternative": "Boit 1 gorgée" },
+    {
+      "question": "Couché avec un.e pote de mon ex",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Demandé à quelqu'un combien mesure son sexe",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Reçu de râteau d'une personne ici",
+      "alternative": "Boit 1 gorgée"
+    },
+    { "question": "Dragué en étant bourré.e", "alternative": "Boit 1 gorgée" },
+    {
+      "question": "Embrassé au moins 2 personnes ici",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Couché avec 2 personnes ou plus présentes ici",
+      "alternative": "Boit 1 gorgée"
+    },
+    { "question": "Fait de vélo bourré", "alternative": "Boit 1 gorgée" },
+    {
+      "question": "Donné du plaisir oralement",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Essayé de pécho plus de 2 personnes ici",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Été au bar plus d'une fois dans la même semaine",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Été dans la même soirée que 2 personnes avec qui j'ai fait des bails",
+      "alternative": "Boit 1 gorgée"
+    },
+    { "question": "Été dans un sexshop", "alternative": "Boit 1 gorgée" },
+    { "question": "Binge-watché une série", "alternative": "Boit 1 gorgée" },
+    {
+      "question": "Été jaloux.se de l'ex de mon.ma partenaire",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Été jaloux.se de quelqu'un ici",
+      "alternative": "Boit 1 gorgée"
+    },
+    { "question": "Été précoce", "alternative": "Boit 1 gorgée" },
+    {
+      "question": "Été pris pour cible par une arme à feu/plomb",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Été surpris en plein acte par ma famille / belle-famille",
+      "alternative": "Boit 1 gorgée"
+    },
+    { "question": "Été tatoué.e", "alternative": "Boit 1 gorgée" },
+    {
+      "question": "Aimé me faire mordre pendant un rapport sexuel",
+      "alternative": "Boit 1 gorgée"
+    },
+    { "question": "Eu de relations sexuelles", "alternative": "Boit 1 gorgée" },
+    {
+      "question": "Eu de crush sur une personne de la pièce (Hors partenaire actuel)",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Eu de panne lors d'un rapport sexuel",
+      "alternative": "Boit 1 gorgée"
+    },
+    { "question": "Mentit en jouant à ce jeu", "alternative": "Boit 1 gorgée" },
+    {
+      "question": "Eu d'orgasme pendant les préliminaires",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Eu envie du/de la partenaire d'un.e ami.e",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Fais de plaisir solo (masturbation) dans un lieu public",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Fais des bails avec quelqu'un dans la pièce",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Fais des bails avec une personne du même sexe",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Fais l'amour dans une voiture",
+      "alternative": "Boit 1 gorgée"
+    },
+    { "question": "Offert de fleurs", "alternative": "Boit 1 gorgée" },
+    {
+      "question": "Fantasmé sur quelqu'un en uniforme",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Envisagé de pécho plus de 2 personnes ici",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Fantasmé sur un.e professeur",
+      "alternative": "Boit 1 gorgée"
+    },
+    { "question": "Fumé de cigarettes", "alternative": "Boit 1 gorgée" },
+    { "question": "Goûté de sperme", "alternative": "Boit 1 gorgée" },
+    {
+      "question": "Griffé mon.ma partenaire au point de lui laisser des traces",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Inventé une excuse pour ne pas sortir et rester avec mon.ma partenaire",
+      "alternative": "Boit 1 gorgée"
+    },
+    { "question": "Maté une personne ici", "alternative": "Boit 1 gorgée" },
+    {
+      "question": "Pensé à quelqu'un ici en me branlant",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Pensé que mon ex était un meilleur coup que mon.ma partenaire",
+      "alternative": "Boit 1 gorgée"
+    },
+    { "question": "Pratiqué la sodomie", "alternative": "Boit 1 gorgée" },
+    { "question": "Pris de drogues", "alternative": "Boit 1 gorgée" },
+    {
+      "question": "Recouché avec mon ex après l'avoir quitté.e",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Reçu de lap dance / striptease",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Simulé pendant un rapport sexuel",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Sorti avec un.e pote de mon ex",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Surpris un membre de ma famille en train de se faire plaisir",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Utilisé une application de rencontre",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Volé quelque chose dans un magasin",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Vomit au travail/en cours à cause de l'alcool",
+      "alternative": "Boit 1 gorgée"
+    },
+    {
+      "question": "Dormis dans la mauvaise chambre/maison en étant bourré.e",
+      "alternative": "Boit 1 gorgée"
+    }
+  ],
+  "Qui pourrait": [
+    {
+      "question": "Acheter du porno ?",
+      "alternative": ""
+    },
+    {
+      "question": "Acheter une maison en premier ?",
+      "alternative": ""
+    },
+    { "question": "Aimer les pieds ?", "alternative": "" },
+    {
+      "question": "Aller dans un club libertin avec son.sa partenaire ?",
+      "alternative": ""
+    },
+    {
+      "question": "Aller en cours en étant bourré ?",
+      "alternative": ""
+    },
+    {
+      "question": "Aller en cours en étant stone ?",
+      "alternative": ""
+    },
+    {
+      "question": "Aller voir des prostitué.es ?",
+      "alternative": ""
+    },
+    {
+      "question": "Arranger des coups à ses potes sans jamais conclure ?",
+      "alternative": ""
+    },
+    {
+      "question": "Avoir un enfant en premier ?",
+      "alternative": ""
+    },
+    {
+      "question": "Boire au saut du lit ?",
+      "alternative": ""
+    },
+    {
+      "question": "Boire dans le verre d'un.e inconnu.e ?",
+      "alternative": ""
+    },
+    {
+      "question": "Boire jusqu'au black-out en pleine semaine ?",
+      "alternative": ""
+    },
+    {
+      "question": "Boire le plus d'alcool différents en une soirée ?",
+      "alternative": ""
+    },
+    {
+      "question": "Créer un record de quantité d'alcool dans le sang ?",
+      "alternative": ""
+    },
+    {
+      "question": "Dormir n'importe où et passer une bonne nuit ?",
+      "alternative": ""
+    },
+    {
+      "question": "Dormir seul.e en pleine forêt ?",
+      "alternative": ""
+    },
+    {
+      "question": "Écouter la même musique pendant des semaines ?",
+      "alternative": ""
+    },
+    {
+      "question": "Embrasser le plus de personnes différentes en une semaine ?",
+      "alternative": ""
+    },
+    {
+      "question": "Embrasser un.e total.e inconnu.e ?",
+      "alternative": ""
+    },
+    {
+      "question": "Faire des courses et ressortir avec tout sauf le nécessaire ?",
+      "alternative": ""
+    },
+    {
+      "question": "Faire des dingueries par égo ?",
+      "alternative": ""
+    },
+    {
+      "question": "Faire un plan à 3 ?",
+      "alternative": ""
+    },
+    {
+      "question": "Faire un shooting érotique ?",
+      "alternative": ""
+    },
+    {
+      "question": "Faire un tour du monde ?",
+      "alternative": ""
+    },
+    {
+      "question": "Gagner un concours d'apnée ?",
+      "alternative": ""
+    },
+    {
+      "question": "Marier une daronne / un daron ?",
+      "alternative": ""
+    },
+    {
+      "question": "Monter sa propre entreprise ?",
+      "alternative": ""
+    },
+    {
+      "question": "Offrir un sextoy à son.sa partenaire ?",
+      "alternative": ""
+    },
+    {
+      "question": "Participer à une télé-réalité ?",
+      "alternative": ""
+    },
+    {
+      "question": "Partir en vacances avec ses parents et kiffer ?",
+      "alternative": ""
+    },
+    {
+      "question": "Partir vivre seul.e dans la montagne ?",
+      "alternative": ""
+    },
+    {
+      "question": "Passer sa journée devant un jeu vidéo ?",
+      "alternative": ""
+    },
+    {
+      "question": "Pécho quelqu'un de plus jeune ?",
+      "alternative": ""
+    },
+    {
+      "question": "Pécho quelqu'un de plus vieux ?",
+      "alternative": ""
+    },
+    {
+      "question": "Perdre tout son argent au casino ?",
+      "alternative": ""
+    },
+    {
+      "question": "Porter une tenue sans sous-vêtements en public ?",
+      "alternative": ""
+    },
+    {
+      "question": "Faire des bails dans un cinéma ?",
+      "alternative": ""
+    },
+    {
+      "question": "Rater un plat simple ?",
+      "alternative": ""
+    },
+    {
+      "question": "Regarder du porno en classe ?",
+      "alternative": ""
+    },
+    {
+      "question": "Rester célibataire le plus longtemps ?",
+      "alternative": ""
+    },
+    {
+      "question": "Rester le plus longtemps bourré ?",
+      "alternative": ""
+    },
+    {
+      "question": "Sauter dans l'eau sans réfléchir pour attraper un canard ?",
+      "alternative": ""
+    },
+    {
+      "question": "Se marier en premier ?",
+      "alternative": ""
+    },
+    {
+      "question": "Se mettre une mine avec ses parents ?",
+      "alternative": ""
+    },
+    {
+      "question": "Se raser les cheveux sur un coup de tête ?",
+      "alternative": ""
+    },
+    {
+      "question": "Se réveiller dans un endroit random sans savoir où iel est ?",
+      "alternative": ""
+    },
+    {
+      "question": "Se tromper de prénom au lit avec son partenaire ?",
+      "alternative": ""
+    },
+    {
+      "question": "Tenir le moins longtemps au lit ?",
+      "alternative": ""
+    },
+    {
+      "question": "Tenir le plus longtemps au lit ?",
+      "alternative": ""
+    },
+    { "question": "Tenir un PMU ?", "alternative": "" },
+    {
+      "question": "Tourner une sextape ?",
+      "alternative": ""
+    },
+    {
+      "question": "Truquer ce jeu pour pécho ?",
+      "alternative": ""
+    },
+    {
+      "question": "Vivre en van life ?",
+      "alternative": ""
+    }
+  ],
+  "Qui est le.la plus": [
+    { "question": "Fort.e en cuisine", "alternative": "" },
+    { "question": "Branché.e blagues de cul", "alternative": "" },
+    { "question": "Amoureux.se", "alternative": "" },
+    { "question": "Gros.se buveur.se", "alternative": "" },
+    { "question": "Bagarreur.se", "alternative": "" },
+    { "question": "Baroudeur.se", "alternative": "" },
+    { "question": "Alcoolique", "alternative": "" },
+    { "question": "Bourré.e", "alternative": "" },
+    { "question": "Canard", "alternative": "" },
+    { "question": "Chauvin", "alternative": "" },
+    { "question": "Chiant.e en couple", "alternative": "" },
+    { "question": "Créatif.ve", "alternative": "" },
+    { "question": "Critique envers les autres", "alternative": "" },
+    { "question": "Aigri.e", "alternative": "" },
+    {
+      "question": "Critique envers lui.elle-même",
+      "alternative": ""
+    },
+    {
+      "question": "Doué.e pour faire des cocktails",
+      "alternative": ""
+    },
+    { "question": "Dragueur.se", "alternative": "" },
+    { "question": "En retard", "alternative": "" },
+    { "question": "Enclin à la gerbe", "alternative": "" },
+    { "question": "Enfantin.e", "alternative": "" },
+    {
+      "question": "À même d'essayer toutes les drogues",
+      "alternative": ""
+    },
+    { "question": "Gros.se baiseur.se", "alternative": "" },
+    {
+      "question": "Fort.e pour raconter des histoires",
+      "alternative": ""
+    },
+    { "question": "Fou/folle", "alternative": "" },
+    { "question": "Gay", "alternative": "" },
+    { "question": "Intelligent.e", "alternative": "" },
+    { "question": "Jaloux.se", "alternative": "" },
+    { "question": "Joli.e", "alternative": "" },
+    { "question": "Joueur.se", "alternative": "" },
+    { "question": "Joyeux.se", "alternative": "" },
+    { "question": "Lent.e", "alternative": "" },
+    { "question": "Fan de ragots", "alternative": "" },
+    { "question": "Mal habillé.e", "alternative": "" },
+    { "question": "Lève-tôt", "alternative": "" },
+    { "question": "Mauvais joueur.se", "alternative": "" },
+    { "question": "Meilleur.e danseur.se", "alternative": "" },
+    { "question": "Musclé.e", "alternative": "" },
+    { "question": "Naïf/naïve", "alternative": "" },
+    { "question": "Naturiste", "alternative": "" },
+    { "question": "Organisé.e", "alternative": "" },
+    { "question": "Poilu.e", "alternative": "" },
+    { "question": "Précoce", "alternative": "" },
+    { "question": "Près de ses sous", "alternative": "" },
+    { "question": "Prévoyant", "alternative": "" },
+    { "question": "Rapide", "alternative": "" },
+    { "question": "Rapidement bourré.e", "alternative": "" },
+    { "question": "Drôle", "alternative": "" },
+    { "question": "Scotché à son téléphone", "alternative": "" },
+    { "question": "Sérieux.se", "alternative": "" },
+    { "question": "Social.e", "alternative": "" },
+    { "question": "Stressé.e", "alternative": "" },
+    { "question": "Transpirant", "alternative": "" },
+    { "question": "Hyperactif.ve", "alternative": "" },
+    { "question": "Aveugle", "alternative": "" }
+  ],
+  "Est-ce que": [
+    {
+      "question": "Tu pourrais devenir végan ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais travailler toute ta vie dans la même boîte ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu considères que t’as une libido élevée ou faible ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais vivre un mois sans téléphone ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu veux des enfants plus tard ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais faire ta vie avec la personne d'aujourd'hui ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais ne plus boire d'alcool de toute ta vie ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais ne plus jamais parler aux gens ici contre 10M d'euros ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais ne plus écouter de musique pour vivre avec l'amour de ta vie ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu penses être le.a meilleur.e dans un domaine parmi tes ami.es ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais te remettre avec ton ex ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais vivre toute ta vie en ville ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais coucher avec une personne du même sexe ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu voudrais changer de sexe pour un mois ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu crois en l’amitié fille-garçon sur le long terme ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais arrêter les fast-foods pour le reste de ta vie ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu accepterais que ton partenaire dorme avec quelqu'un du sexe opposé ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu aimerais vivre en autarcie dans une maison autonome ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu penses que tu pourrais survivre seul.e sur une île déserte ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu penses que tu pourrais tuer quelqu’un de sang-froid ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu t’es déjà retrouvé nu devant plus de 5 personnes ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "T’es plus team chat ou team chien ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu accepterais de ne plus voir ton meilleur ami si ton partenaire le demandait ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais aller dans un club libertin ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais ne plus boire qu’un seul alcool ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais vivre dans une maison sans animaux toute ta vie ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais choisir entre ton partenaire et ton meilleur ami ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais travailler dans un bureau toute ta vie ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu penses pouvoir réussir le NNN cette année ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu te considères objectivement beau/belle ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu es content.e de la personne que tu es aujourd’hui ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais changer de pays pour suivre ton partenaire ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais habiter en colocation avec ton meilleur ami ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais te lancer sur Only Fan pour 3 000€/mois ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais jouer à la roulette russe ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais déménager tous les 2 ans ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu serais capable de faire un stand-up dès demain ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais chopper l’ex de ton meilleur pote ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Il te manque quelques chose dans ta vie actuellement ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu serais capable de coucher avec le partenaire d’un ami ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu serais capable de voter à la place de quelqu’un pour un autre camp ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu pourrais vivre sans réseaux sociaux ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu couvrirais ton meilleur pote s'iel te demandait de mentir ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu serais capable de faire atterrir un avion ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu serais prêt.e à couvrir ton pote s'iel trompait son partenaire ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu serais prêt.e à simuler pour ne pas vexer ton partenaire ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu serais prêt.e à pardonner à ton partenaire de t’avoir trompé ?",
+      "alternative": "Réponse libre"
+    },
+    { "question": "T'es plutôt thé ou café ?", "alternative": "Réponse libre" },
+    {
+      "question": "Tu penses gagner plus de 10k€/mois un jour ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu serais prêt.e à ouvrir ton couple ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu penses que tu pourrais devenir une star un jour ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu penses que tu pourrais diriger un pays ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu penses que tu pourrais être à l'origine d'une révolution ?",
+      "alternative": "Réponse libre"
+    },
+    {
+      "question": "Tu penses que tu pourrais finir en prison un jour ?",
+      "alternative": "Réponse libre"
+    }
+  ],
+  "Chiche": [
+    { "question": "Enlève un vêtement", "alternative": "" },
+    {
+      "question": "Faites un bras de fer chinois (le perdant boit)",
+      "alternative": ""
+    },
+    {
+      "question": "Lance les 2 dés OU bois 2 shots",
+      "alternative": ""
+    },
+    {
+      "question": "Claquez-vous la main (les autres notent le bruit)",
+      "alternative": ""
+    },
+    { "question": "Bois 1 shot", "alternative": "" },
+    {
+      "question": "Demande-lui une chose jamais osée avant",
+      "alternative": ""
+    },
+    {
+      "question": "Trouve une nourriture commençant par une lettre en 30s",
+      "alternative": ""
+    },
+    { "question": "Prépare son verre", "alternative": "" },
+    {
+      "question": "Bois avec tous ceux qui ont déjà vomi en soirée",
+      "alternative": ""
+    },
+    {
+      "question": "Dis-lui quelque chose que tu n'as jamais osé lui dire",
+      "alternative": ""
+    },
+    { "question": "Bois un verre d'eau", "alternative": "" },
+    {
+      "question": "Donne le dernier mensonge que tu lui as dit",
+      "alternative": ""
+    },
+    { "question": "Bois 1 shot", "alternative": "" },
+    {
+      "question": "Buvez dans le verre de l'autre",
+      "alternative": ""
+    },
+    { "question": "Bois un verre d'eau", "alternative": "" },
+    {
+      "question": "Donne sa date d'anniversaire (si faux, boit)",
+      "alternative": ""
+    },
+    { "question": "Bois un verre d'eau", "alternative": "" },
+    { "question": "Échangez de haut", "alternative": "" },
+    { "question": "Bois un verre sans les mains", "alternative": "" },
+    { "question": "Échangez de place", "alternative": "" },
+    {
+      "question": "Choisis un nombre et lance le dé",
+      "alternative": ""
+    },
+    { "question": "Échangez de verre", "alternative": "" },
+    {
+      "question": "Commence toutes tes phrases par 'miaou'",
+      "alternative": ""
+    },
+    {
+      "question": "Embrasse la personne sur la joue",
+      "alternative": ""
+    },
+    {
+      "question": "Décris un joueur en 3 mots (hors physique)",
+      "alternative": ""
+    },
+    { "question": "Enlève-lui un vêtement", "alternative": "" },
+    { "question": "Bois 1 shot", "alternative": "" },
+    { "question": "Bois une gorgée de son verre", "alternative": "" },
+    {
+      "question": "Dis '3 tortues sur un toit...' 3 fois",
+      "alternative": ""
+    },
+    { "question": "Fais-lui boire un verre", "alternative": "" },
+    {
+      "question": "Donne le bodycount potentiel de la 5ème personne à droite",
+      "alternative": ""
+    },
+    { "question": "Fais-lui un câlin", "alternative": "" },
+    {
+      "question": "Donne le prénom d'une personne que tu n'aimes pas",
+      "alternative": ""
+    },
+    { "question": "Fais-lui un câlin", "alternative": "" },
+    {
+      "question": "Embrasse la prochaine personne qui fait un 6",
+      "alternative": ""
+    },
+    { "question": "Fais-lui un compliment", "alternative": "" },
+    {
+      "question": "Embrasse ton/ta voisin.e le.a plus proche",
+      "alternative": ""
+    },
+    {
+      "question": "Fais-lui un petit massage des épaules",
+      "alternative": ""
+    },
+    { "question": "Enlève un vêtement", "alternative": "" },
+    {
+      "question": "Faites un bras de fer (le perdant boit)",
+      "alternative": ""
+    },
+    {
+      "question": "2 personnes te préparent un shot (choisis au hasard)",
+      "alternative": ""
+    },
+    { "question": "Bois une gorgée de son verre", "alternative": "" },
+    {
+      "question": "Fais un baise-main à ta voisine la plus proche",
+      "alternative": ""
+    },
+    {
+      "question": "Faites une battle de dés (le perdant boit)",
+      "alternative": ""
+    },
+    { "question": "Enlève un vêtement", "alternative": "" },
+    { "question": "Faites un combat de regards", "alternative": "" },
+    { "question": "Fais 5 pompes", "alternative": "" },
+    {
+      "question": "Faites un pierre-feuille-ciseaux",
+      "alternative": ""
+    },
+    {
+      "question": "Fais le regard le plus charmeur à ton voisin de gauche",
+      "alternative": ""
+    },
+    {
+      "question": "Faites un pierre-feuille-ciseaux",
+      "alternative": ""
+    },
+    {
+      "question": "Fais un câlin à la 2ème personne à ta droite",
+      "alternative": ""
+    },
+    { "question": "Faites-vous un kiss", "alternative": "" },
+    {
+      "question": "Fini tes phrases par un mot choisi par le groupe",
+      "alternative": ""
+    },
+    {
+      "question": "Fixez-vous dans les yeux (le 1er qui rit boit)",
+      "alternative": ""
+    },
+    { "question": "Imite un animal", "alternative": "" },
+    {
+      "question": "Mange un truc comestible lancé à la bouche",
+      "alternative": ""
+    },
+    {
+      "question": "Le dernier qui touche son front boit",
+      "alternative": ""
+    },
+    {
+      "question": "Regarde-le/la et dis que c'est la plus belle personne",
+      "alternative": ""
+    },
+    {
+      "question": "Trouvez le même mot en 2 essais",
+      "alternative": ""
+    },
+    {
+      "question": "Dis ce que tu préfères chez lui/elle",
+      "alternative": ""
+    },
+    {
+      "question": "Bois avec ton/ta voisin.e le.a plus jeune",
+      "alternative": ""
+    }
+  ]
+}
