@@ -1,6 +1,8 @@
 use crate::components::navigation::ArrowButton;
 use crate::config::state::PLAYERS;
 use dioxus::prelude::*;
+use dioxus_free_icons::icons::fa_solid_icons::FaPlus;
+use dioxus_free_icons::Icon;
 
 /// Screen used to choose the players
 /// Uses a copy of the player list before applying it while saving
@@ -44,7 +46,12 @@ pub fn PlayerChoice() -> Element {
                                 input.set(String::new());
                             }
                         },
-                        "➕"
+                        Icon {
+                            width: 30,
+                            height: 30,
+                            fill: "black",
+                            icon: FaPlus,
+                        }
                     }
                 }
 

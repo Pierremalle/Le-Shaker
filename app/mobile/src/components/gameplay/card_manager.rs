@@ -45,16 +45,19 @@ pub fn CardManager() -> Element {
 
             // if a card exit, display it with targeted player, else a loading text
             if let Some((category, question, alternative)) = current_card() {
-                div { class: "w-full h-64 rounded-3xl bg-gradient-to-br from-purple-700 to-pink-600 p-6 shadow-[0_0_30px_rgba(168,85,247,0.8)] flex flex-col justify-between",
+                div { class: "w-full h-64 rounded-3xl bg-gradient-to-br from-purple-700 to-pink-600 p-6 shadow-[0_0_20px_rgba(168,85,247,0.8)] flex flex-col justify-between",
 
                     if let Some(player) = current_player() {
                         h2 { class: "text-xl font-bold text-purple-200", "🎯 {player}" }
                     }
 
                     div {
-                        p { class: "text-sm opacity-70", "{category}" }
+                        p { class: "text-sm opacity-70", "Catégorie : {category}" }
                         p { class: "text-lg mt-2", "{question}" }
-                        p { class: "text-lg mt-2", "{alternative}" }
+                        if alternative != "" {
+                            p { class: "text-base mt-2 opacity-70", " OU" }
+                            p { class: "text-lg mt-2", " {alternative}" }
+                        }
                     }
                 }
             } else {

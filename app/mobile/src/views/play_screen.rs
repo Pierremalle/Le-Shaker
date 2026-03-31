@@ -17,9 +17,7 @@ pub fn PlayScreen() -> Element {
 
             section { class: "w-full max-w-md mx-auto flex flex-col items-center gap-6 mt-6",
 
-                h1 { class: "text-3xl font-bold text-purple-300 drop-shadow-[0_0_10px_rgba(168,85,247,0.8)]",
-                    "🎮 Partie"
-                }
+                h1 { class: "text-3xl font-bold text-purple-300", "🎮 Partie" }
 
                 if players.is_empty() {
                     p { class: "text-red-400", "Aucun joueur enregistré " }
